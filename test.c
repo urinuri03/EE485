@@ -2,8 +2,8 @@
 
 int main()
 {
-	printf("HOLY World\n");
-	printf("Bye World\n);
+	printf("JBD World\n");
+	printf("bi World\n);
 	return 0;
 }
 
